@@ -6,4 +6,5 @@ package rocks.zipcode.io.quiz3.collections;
  */
 public enum LabStatus {
     ADD_ENUMERATIONS_HERE;
+
 }

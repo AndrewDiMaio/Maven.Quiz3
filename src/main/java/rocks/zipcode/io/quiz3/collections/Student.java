@@ -12,6 +12,7 @@ public class Student {
     }
 
     public Student(List<Lab> labs) {
+
     }
 
     public Lab getLab(String labName) {
